@@ -2,6 +2,7 @@
   "name": "anna-pakula",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://annapakula.github.io/layout-recruitment-project/",
   "main": "index.html",
   "scripts": {
     "scss": "node-sass --watch styles/style.scss styles/style.min.css --output-style compressed"
