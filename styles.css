@@ -1,0 +1,54 @@
+:root {
+  --light-gray: #f3f2f3;
+  --dark-gray: #cacaca;
+  --green: #43b472;
+}
+
+
+body {
+  background-color: var(--light-gray);
+}
+
+.card {
+  
+}
+
+.card__button {
+
+}
+
+.card__buttons {
+
+}
+
+.card__image {
+
+}
+
+.card__image-wrapper {
+
+}
+
+.header {
+
+}
+
+.header__button {
+
+}
+
+.header__image {
+
+}
+
+.header-wrapper {
+
+}
+
+.main {
+
+}
+
+.main-wrapper {
+
+}
